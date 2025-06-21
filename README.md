@@ -5,7 +5,7 @@
 
 I´m a web designer and technical artist. I work with Unreal Engine 5 and Unity 6, so I primarily use C# ancd C++ as my main programming languages.
  
-My Skills Include
+<h3> My Skills Include</h3>
 
 <h4> Languages </h4>
 <span> 
