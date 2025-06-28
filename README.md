@@ -1,6 +1,6 @@
  <h1 align="center">Hi , I'm LughVIII <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
- <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+ <img align="right" width=300px alt="Unicorn" src="https://github.com/LughVIII/LughVIII/blob/main/amtrix.gif" />
 
 
 I´m a web designer and technical artist. I work with Unreal Engine 5 and Unity 6, so I primarily use C# ancd C++ as my main programming languages.
